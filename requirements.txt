@@ -1,0 +1,117 @@
+# General Django and Extensions
+Django
+django-extensions
+
+# REST API
+djangorestframework
+
+# User Authentication & Permissions
+django-allauth
+django-permissions
+
+# Database
+psycopg2
+
+# Task Queue
+celery
+redis
+
+# Caching
+django-redis
+
+# File Uploads
+django-storages
+
+# Text Search
+django-haystack
+elasticsearch
+
+# HTML Parsing & Sanitization
+beautifulsoup4
+html-sanitizer
+
+# WYSIWYG Editor
+django-ckeditor
+
+# Analytics
+django-analytical
+
+# Testing
+pytest-django
+
+# Frontend
+django-compressor
+
+# Styling and UI
+django-adminlte3
+django-crispy-forms
+
+# Filtering and Querying
+django-filter
+
+# Geospatial APIs
+djangochannelsrestframework
+
+# Multi-Step Forms
+django-formtools
+
+# Version Control
+django-reversion
+
+# Tagging
+django-taggit
+
+# Data Import/Export
+django-import-export
+
+
+
+# Real-Time Updates
+django-channels
+
+# Notifications
+django-notifications-hq
+
+# Phone Number Handling
+django-phonenumber-field
+
+# Security and Authentication
+python-social-auth
+djangorestframework-jwt
+pycryptodome
+
+# Data Analysis and Visualization
+pandas
+matplotlib
+
+# Geospatial Data
+geopandas
+gdal
+folium
+leaflet
+
+# Real-Time Communication
+twisted
+
+# ZoneMinder Integration
+pyzm
+requests
+
+# Drone Control
+dronekit
+dronekit-sitl
+pymavlink
+
+# Data Processing and Analysis
+opencv-python
+numpy
+scipy
+
+# Integration Layer
+apscheduler
+
+# LMS Module
+django-ckeditor
+beautifulsoup4
+django-analytical
+pytest-django

@@ -7,7 +7,7 @@ djangorestframework
 
 # User Authentication & Permissions
 django-allauth
-django-permissions
+django-guardian
 
 # Database
 psycopg2
